@@ -1,0 +1,7 @@
+# 本碎片自用，查杀力度大,存在副作用，不推荐使用。
+# 推荐来这里找https://acl4ssr-sub.github.io/
+# 某甲某节
+DOMAIN-KEYWORD,pangolin-sdk-toutiao
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
